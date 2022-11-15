@@ -1,0 +1,9 @@
+load mock-load.jpg
+blur
+sharpen
+grayscale
+sepia
+dither
+mosaic 8000
+save mock-save.jpg
+quit

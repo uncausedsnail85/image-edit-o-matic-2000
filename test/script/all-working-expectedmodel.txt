@@ -1,0 +1,8 @@
+loading image: mock-load.jpg
+applying blur
+applying sharpen
+applying grayscale
+applying sepia
+applying dither
+applying mosaic, seeds: 8000
+saving image: mock-save.jpg

@@ -1,0 +1,3 @@
+save res\image.png
+load res\mondays.png
+save res\mondays-2.png

@@ -1,0 +1,23 @@
+show message: Program has started.
+Prompting for an image.
+show message: Enter the image name:
+show message: Loading mock-load.jpg
+show message: Loaded mock-load.jpg
+Prompting for input.
+show message: Applying blur.
+Prompting for input.
+show message: Applying sharpen.
+Prompting for input.
+show message: Applying grayscale.
+Prompting for input.
+show message: Applying sepia.
+Prompting for input.
+show message: Applying dithering.
+Prompting for input.
+show message: Applying a mosaic with 8000 seeds.
+Prompting for input.
+show message: Enter the image name:
+show message: Saving mock-save.jpg
+show message: Image saved as: mock-save.jpg
+Prompting for input.
+show message: Exiting program.

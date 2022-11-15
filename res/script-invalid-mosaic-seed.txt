@@ -1,0 +1,4 @@
+load res\mondays.png
+mosaic -1
+mosaic 0
+mosaic AAAA

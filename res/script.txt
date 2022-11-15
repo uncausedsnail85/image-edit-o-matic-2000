@@ -1,0 +1,99 @@
+load res\code-review.png
+save res\code-review-2.png
+blur
+save res\code-review-blurred.png
+blur
+save res\code-review-blurred-2.png
+
+load res\code-review.png
+sharpen
+save res\code-review-sharpen.png
+sharpen
+save res\code-review-sharpen-2.png
+
+load res\code-review.png
+grayscale
+save res\code-review-grayscale.png
+
+load res\code-review.png
+sepia
+save res\code-review-sepia.png
+
+load res\code-review.png
+dither
+save res\code-review-dither.png
+
+load res\code-review.png
+mosaic 15000
+save res\code-review-mosaic-15000.png
+
+load res\code-review.png
+mosaic 8000
+save res\code-review-mosaic-8000.png
+
+load res\code-review.png
+mosaic 4000
+save res\code-review-mosaic-4000.png
+
+load res\code-review.png
+mosaic 1000
+save res\code-review-mosaic-1000.png
+
+load res\code-review.png
+edgedetection
+save res\code-review-edgedetection.png
+
+load res\code-review-grayscale.png
+histogramequalization
+save res\code-review-grayscale-equalized.png
+
+load res\mondays.png
+save res\mondays-2.png
+blur
+save res\mondays-blurred.png
+blur
+save res\mondays-blurred-2.png
+
+load res\mondays.png
+sharpen
+save res\mondays-sharpen.png
+sharpen
+save res\mondays-sharpen-2.png
+
+load res\mondays.png
+grayscale
+save res\mondays-grayscale.png
+
+load res\mondays.png
+sepia
+save res\mondays-sepia.png
+
+load res\mondays.png
+dither
+save res\mondays-dither.png
+
+load res\mondays.png
+mosaic 15000
+save res\mondays-mosaic-15000.png
+
+load res\mondays.png
+mosaic 8000
+save res\mondays-mosaic-8000.png
+
+load res\mondays.png
+mosaic 4000
+save res\mondays-mosaic-4000.png
+
+load res\mondays.png
+mosaic 1000
+save res\mondays-mosaic-1000.png
+
+load res\mondays.png
+edgedetection
+save res\mondays-edgedetection.png
+
+load res\mondays-grayscale.png
+histogramequalization
+save res\mondays-grayscale-equalized.png
+
+quit

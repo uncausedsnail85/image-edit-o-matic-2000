@@ -1,0 +1,6 @@
+blur
+sharpen
+grayscale
+sepia
+dither
+mosaic 9000

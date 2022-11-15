@@ -1,0 +1,3 @@
+load res\tuesdays.png
+blur
+quit
