@@ -1,7 +1,7 @@
 # Image-Filter-o-Matic-2000
 
 This is a java program that allows the filtering or manipulation of images, either with the provided
-GUI or a txt script file.
+GUI or a txt script file. Filters apply predefined kernels over the image.
 
 ## List of features
 
