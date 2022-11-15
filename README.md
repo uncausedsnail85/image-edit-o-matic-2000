@@ -51,11 +51,11 @@ Executing the given JAR file (named hw10.jar tentatively) will launch the progra
 
 Executing the program will show the main pane. The main pane offers menus for performing all
 actions. In addition to that, each action has a corresponding short-cut associated to it.
-![mainpage](res\README images\mainpage.png)
+![mainpage](/res/README images/mainpage.png)
 Clicking on `Script->Create` will bring up the script editor page. Here we can directly edit a
 script file or use the built-in buttons to populate the script file. After creating, we can save the
 file directly from the editor page to be executed later.
-![scriptpage](res\README images\scriptpage.png)
+![scriptpage](/res/README images/scriptpage.png)
 A few things of note:
 - All image filters and the save function is disabled until an image is loaded.
 - You can view a history of actions in the log section beneath.
@@ -80,11 +80,11 @@ desired commands in a text file or use the editor provided. The file must then b
 executed For example:
 
 ```
-load res\mondays.png
+load /res/mondays.png
 blur blur
 grayscale
 sharpen
-save res\new.png
+save /res/new.png
 ```
 See the `.txt` files in `\res\` for further example.
 
@@ -114,7 +114,7 @@ directory.
 
 ### Blurring images
 
-![blur](res\code-review-blurred.png)
+![blur](/res/code-review-blurred.png)
 
 ```
 blur
@@ -124,7 +124,7 @@ Applies a blur to the image.
 
 ### Sharpen images
 
-![sharpen](res\code-review-sharpen.png)
+![sharpen](/res/code-review-sharpen.png)
 
 ```
 sharpen
@@ -134,7 +134,7 @@ Applies a sharpening to the image.
 
 ### Grayscale
 
-![grayscale](res\code-review-grayscale.png)
+![grayscale](/res/code-review-grayscale.png)
 
 ```
 grayscale
@@ -144,7 +144,7 @@ Applies a grayscale filter to the image.
 
 ### Sepia
 
-![sepia](res\code-review-sepia.png)
+![sepia](/res/code-review-sepia.png)
 
 ```
 sepia
@@ -154,7 +154,7 @@ Applies a sepia filter to the image.
 
 ### Dither Images
 
-![dither](res\code-review-dither.png)
+![dither](/res/code-review-dither.png)
 
 ```
 dither
@@ -166,7 +166,7 @@ the [Floyd-Steinberg](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dith
 ### Mosaic
 
 
-![mosaic](res\code-review-mosaic-1000.png)
+![mosaic](/res/code-review-mosaic-1000.png)
 ```
 mosaic 8000
 ```
@@ -175,14 +175,14 @@ Applies a mosaic filter to the image. The number of seeds provided indicates how
 are in the image.
 
 ### Edge detection
-![edgedetection](res\code-review-edgedetection.png)
+![edgedetection](/res/code-review-edgedetection.png)
 ```
 edgedetection
 ```
 Applies a Sobel edge detection by converting the image to grayscale and highlighting edges.
 
 ### Histgoram equalization
-![histogramequalization](res\code-review-grayscale-equalized.png)
+![histogramequalization](/res/code-review-grayscale-equalized.png)
 ```
 histogramequalization
 ```
